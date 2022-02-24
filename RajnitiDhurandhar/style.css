@@ -1,0 +1,169 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+body{
+    height: 300vh;
+}
+
+.header{
+    /* height: 100vh; */
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    font-family: 'Baloo Da 2', cursive;
+}
+.header nav{
+    font-size: 50px;
+}
+.header nav div{
+    font-size: 20px;
+}
+nav{
+    margin: auto;
+    padding: auto;
+    text-align: center;
+}
+.ima{
+    position: relative;
+}
+.over{
+    position:absolute;
+    margin: 70px;
+}
+.board{
+    z-index: 9;
+    height:750px;
+    width: 900px;
+    background-color: orange;
+    margin-left: 250px;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;    
+
+}
+
+.About{
+    height: 100vh;
+}
+
+.abttext{
+    font-size: 20px;
+    padding:40px 0 40px 0;
+}
+
+.d1{
+    /* height: 100vh; */
+}
+
+.d2{
+    /* height: 100vh; */
+}
+
+.About pre{
+    height: auto;
+    width: auto;
+    text-align: center;
+    position:  relative;
+    margin-left: 250px;
+    /* height: 100vh; */
+
+}
+.About nav div{
+    height: 100px;
+    width:100% ;
+    background-color: orange;
+
+}
+
+.btn{
+    /* height: 100vh; */
+} 
+
+.img{
+    width: 100%;
+}
+
+#btns{
+
+    margin: 10px 80px 0 0;
+    font-size: 18px;
+    padding: 20px 50px 20px 50px;
+    position: left;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 15px;
+    
+}
+#btnv{
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 15px;
+
+    padding: 20px 50px 20px 50px;
+    margin-top: 30px;
+    position: right;
+    text-align: center;
+
+}
+
+#def{
+    list-style:none;
+    
+}
+#abc{
+    display:inline-block;
+    padding-right: 40px;
+    color: whitesmoke;
+    
+    
+}
+#abc span div a{
+    color: lightgray;
+}
+#abc span div a:hover{
+background-color: floralwhite;
+    color: black;
+}   
+.hello{
+    text-align: left;
+    background-color:orange;
+}
+
+#soci{
+    margin: 20px;
+}
+#dhu{
+    margin-left: 90px;
+    margin-top: 20px;
+    list-style: none;
+    
+}
+#dhu li a{
+    color: lightgray;
+    margin-top: 20px;
+}
+#dhu li a:hover{
+    background-color: floralwhite;
+    color: black;
+}
+#abc span{
+    font-family: 'Baloo Da 2', cursive;
+
+}
+
+.footername{
+    float: right;
+    font-size: 40px;
+    margin: 60px 220px 50px 150px;
+}
+
+.cont{
+    float: right;
+    margin: 20px 20px 20px 40px;
+}
